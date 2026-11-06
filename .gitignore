@@ -1,0 +1,10 @@
+# Created when you train: your AI, its test laps and its results
+models/
+runs/
+results/
+
+# Temporary, cache and tool files
+__pycache__/
+*.pyc
+*.tmp
+.claude/
