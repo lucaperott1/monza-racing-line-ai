@@ -7,6 +7,9 @@ points when it crashes. Over millions of practice steps it discovers braking poi
 turn-in and a racing line. A mathematical "perfect driver" lap with the same car is
 calculated alongside, so you can see how close your AI gets.
 
+**See it in action:** [watch a trained AI drive Monza live in your browser](https://claude.ai/artifact/7SFGz5HcF4BNRLiZfiTkZP),
+with the lap times and results it reached.
+
 Everything you need to train the AI on your own computer is here: the simulator, the
 training setup, the game window and the report generator. Your AI starts from zero, and
 the programs produce your own lap times, telemetry and pictures as it learns.
